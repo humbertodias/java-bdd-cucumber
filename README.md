@@ -67,4 +67,4 @@ Tests run: 20, Failures: 0, Errors: 0, Skipped: 0
 
 # References
 
-    * [desenvolvimento-orientado-a-comportamento-bdd-com-cucumber](http://www.devmedia.com.br/desenvolvimento-orientado-a-comportamento-bdd-com-cucumber/33547)
+[desenvolvimento-orientado-a-comportamento-bdd-com-cucumber](http://www.devmedia.com.br/desenvolvimento-orientado-a-comportamento-bdd-com-cucumber/33547)

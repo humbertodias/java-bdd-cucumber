@@ -9,9 +9,6 @@ import cucumber.model.Account;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-/**
- * Created by humberto.dias on 01/06/2017.
- */
 public class AccountSteps {
 
     private Account conta;

@@ -19,7 +19,6 @@ public class BankSteps {
     public void que_as_contas_sao_do(String nome, List<Account> listaDeContas) throws Throwable {
         // Definição do banco e associando as contas
         banco = new Bank(nome, listaDeContas);
-
     }
 
     @Given("^o calculo do total de contas criadas$")

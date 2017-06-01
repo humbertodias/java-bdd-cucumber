@@ -1,8 +1,5 @@
 package cucumber.model;
 
-/**
- * Created by humberto.dias on 01/06/2017.
- */
 public class Account {
 
     private String dono;

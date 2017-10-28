@@ -64,6 +64,12 @@ Tests run: 20, Failures: 0, Errors: 0, Skipped: 0
 [INFO] ------------------------------------------------------------------------
 ```
 
+Testing Single Feature
+
+```
+mvn test -Dcucumber.options="src/test/resources/features/bank.feature"
+```
+
 
 # References
 
